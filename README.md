@@ -52,7 +52,10 @@ The goal is to:
    - Heatmap of correlations
 
 5. **Insights**
-   - Key observations and questions raised by the data
+- Females had much higher survival rates.
+- First-class passengers survived more than others.
+- Younger children had a better chance of survival.
+- 'Embarked' may have some effect on survival.
 
 ---
 
